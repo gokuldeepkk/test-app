@@ -1,0 +1,25 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+    {
+      "appID": "R4PYH5MUJ3.com.carelon.bh",
+      "paths": ["*"]
+    },
+    {
+      "appID": "E6NS5N6YVX.com.carelon.mobile.dev1",
+      "paths": ["*"]
+    },
+    {
+        "appID": "E6NS5N6YVX.com.carelon.mobile.sit1",
+        "paths": ["*"]
+      },
+      {
+        "appID": "E6NS5N6YVX.com.carelon.mobile.uat1",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
+
+
