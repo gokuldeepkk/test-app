@@ -4,7 +4,7 @@ const path = require("path");
 const app = express();
 const PORT = 3000;
 
-app.get("/.well-known/assetlinks", (req, res) => {
+app.get("/.well-known/assetlinks.json", (req, res) => {
   res.sendFile(path.join(__dirname, "/well-known/assetlinks.json"));
 });
 
